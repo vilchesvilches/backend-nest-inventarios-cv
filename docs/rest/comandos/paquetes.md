@@ -13,3 +13,7 @@ con pnpm:
 pnpm add @nestjs/swagger
 ```
 
+Para configurar variables de entorno:
+```
+pnpm add @nestjs/config
+```
